@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    
+    background-color: #FFFFFF;
+    align-items: center;
+}
+
+.figriot{
+    width: 90%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-bottom: 10px;
+}
+.riot{
+    width: 40%;
+    height: 40%;
+    margin-bottom: 30px;
+}
+
+h3{
+    width: 40%;
+    color: #2C2B2B;
+    margin-left: 15%;
+    font-size: 1.5rem;
+}
+.container{
+    width: 30%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.usuario{
+width: 45%;
+margin-bottom: 10px;
+margin-right: 30px;
+}
+.senha{
+width: 45%;
+margin-right: 30px;
+}
+
+input{
+    width: 140%;
+    height: 85%;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+::placeholder{
+    color: #716E6E;
+    font-size: 10px;
+}
+
+div{
+    width: 60%;
+    height: 30px;
+    margin-left: 10%;
+    
+}
+
+.figuras{
+    width: 80%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.divfig{
+    width: 150%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2051FF;
+    border-radius:5px;
+}
+.divfig2{
+    width: 150%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8A0000;
+    border-radius:5px;
+}
+.divfig3{
+    width: 150%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    border-radius:5px;
+}
+
+.fig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    height: 80%;
+    
+}
+.face{
+    display: flex;
+    width: 20px;
+    height: 17px;
+    border-radius: 5px;
+    
+}
+.google{
+    display: flex;
+    width: 20px;
+    height: 17px;
+    border-radius: 5px;
+    
+}
+.apple{
+    display: flex;
+    width: 20px;
+    height: 17px;
+    border-radius: 5px;
+    
+}
+.container2{
+    width: 80%;
+    height: 40rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    position: relative;
+}
+
+.figlolzin{
+    width: 100%;
+    height: 32vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+
+.lolzin{
+    width: 100%;
+    height: 150%;
+}
+
+
+.caixinha{
+    width: 40%;
+    display: flex;
+    
+    margin-top: 30px;
+    
+}
+.caixinha2{
+    width: 700%;
+    font-size: 0.8rem;
+    color: #000000;
+}
+.caixinha3{
+background-color: red;
+}
+
+.arrow{
+    
+    width: 99%;
+    height: 30px;
+    
+}
+
+button{
+    width: 8%;
+    margin-top: 30%;
+    background-color:  #FF002E;
+    
+    border-color: #FF002E;
+    border-radius: 5px;
+}
+
+
